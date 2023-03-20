@@ -1,0 +1,10 @@
+G:\PROgramovani\textovesoubory02\textovesoubory02\bin\Debug\textovesoubory02.exe.config
+G:\PROgramovani\textovesoubory02\textovesoubory02\bin\Debug\textovesoubory02.exe
+G:\PROgramovani\textovesoubory02\textovesoubory02\bin\Debug\textovesoubory02.pdb
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.csprojAssemblyReference.cache
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.Form1.resources
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.Properties.Resources.resources
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.csproj.GenerateResource.cache
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.csproj.CoreCompileInputs.cache
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.exe
+G:\PROgramovani\textovesoubory02\textovesoubory02\obj\Debug\textovesoubory02.pdb
